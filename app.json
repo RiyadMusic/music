@@ -1,0 +1,57 @@
+{
+
+  "name": "Thagiyevv",
+
+  "description": "Thagiyevv",
+
+  "env": {
+
+    "bot_token": {
+
+      "description": ".",
+
+      "value": "5960727449:AAF4nBeGb5zQGpmamkehRmbWuL7yC7_DVps"
+
+    },
+
+    "API_ID": {
+
+      "description": ".",
+
+      "value": "12878302"
+
+    },
+
+    "SAHIB": {
+
+      "description": ".",
+
+      "value": "5809546648"
+
+    },
+
+    "log_qrup": {
+
+      "description": ".",
+
+      "value": "1777016285"
+
+    },
+
+    "API_HASH": {
+
+      "description": ".",
+
+      "value": "1ce756e879790d465304f48c36294883"
+
+    }
+
+  },
+
+  "buildpacks": [{
+
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+
+  }]
+
+}
